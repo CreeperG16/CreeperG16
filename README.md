@@ -14,6 +14,7 @@ Outside of coding, my hobbies are playing the guitar, playing other instruments 
 [4]: https://github.com/OnixClient-Scripts/OnixClient_Scripts/
 [5]: https://github.com/CubeEdge-Studios/
 [6]: https://github.com/PrismarineJS/bedrock-protocol/issues/116
+[7]: https://github.com/SerenityJS/serenity
 
 ## My Discord
 ![@s.amat](https://discord-readme-badge.vercel.app/api?id=385388013045284864)
